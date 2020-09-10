@@ -57,3 +57,4 @@ hs_err_pid*
 *.out
 *.app
 Tic tac Toe.ai
+*.pdf
